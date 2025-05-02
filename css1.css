@@ -176,13 +176,14 @@
   font-family: "Bree Serif", serif;
   font-size: 4.8rem;
   padding: 12px;
+  margin: 17px;
 }
 
 .h-secondary {
   font-family: "Bree Serif", serif;
   font-size: 1.8rem;
   padding: 12px;
-  margin: 17px;
+  
 }
 
 .center {
